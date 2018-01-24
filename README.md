@@ -1,0 +1,2 @@
+# SpringMVCHibernate
+arrancar con /persons
